@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ssmls",
+  "info": {
+    "singularName": "ssml",
+    "pluralName": "ssmls",
+    "displayName": "ssml"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "ssmlText": {
+      "type": "text"
+    }
+  }
+}
